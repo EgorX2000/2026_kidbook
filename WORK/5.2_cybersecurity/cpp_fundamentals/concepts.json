@@ -75,11 +75,12 @@
         "условие"
       ],
       "file": "WEB/5.2_cybersecurity/cpp_fundamentals/6_control_flow.md",
-      "wikidata_id": "???",
+      "image": "WEB/5.2_cybersecurity/cpp_fundamentals/covers/cover_control_flow.png",
+      "wikidata_id": "Q2984985",
       "author": "Кривошапкин Егор"
     },
     {
-      "id": "5.2_cybersecurity/cpp_fundamentals/cycles",
+      "id": "5.2_cybersecurity/cpp_fundamentals/loops",
       "name": "Циклы: Роботы-повторители",
       "description": "Зачем писать одну команду сто раз, если можно зациклить компьютер? Учимся строить стены в игре и перебирать списки за доли секунды.",
       "lemmas": [
@@ -88,8 +89,9 @@
         "итерация",
         "повторение"
       ],
-      "file": "WEB/5.2_cybersecurity/cpp_fundamentals/7_cycles.md",
-      "wikidata_id": "???",
+      "file": "WEB/5.2_cybersecurity/cpp_fundamentals/7_loops.md",
+      "image": "WEB/5.2_cybersecurity/cpp_fundamentals/covers/cover_loops.png",
+      "wikidata_id": "Q8868615",
       "author": "Кривошапкин Егор"
     },
     {
@@ -131,7 +133,8 @@
         "список"
       ],
       "file": "WEB/5.2_cybersecurity/cpp_fundamentals/10_arrays.md",
-      "wikidata_id": "???",
+      "image": "WEB/5.2_cybersecurity/cpp_fundamentals/covers/cover_arrays.png",
+      "wikidata_id": "Q186152",
       "author": "Велиев Рауф"
     },
     {
@@ -145,7 +148,8 @@
         "память"
       ],
       "file": "WEB/5.2_cybersecurity/cpp_fundamentals/11_pointers.md",
-      "wikidata_id": "???",
+      "image": "WEB/5.2_cybersecurity/cpp_fundamentals/covers/cover_pointers.png",
+      "wikidata_id": "Q118155",
       "author": "Кривошапкин Егор"
     },
     {
